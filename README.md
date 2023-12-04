@@ -3,7 +3,9 @@
 <p><b>Here I upload all the Certifications which I have achived.</b></p>
 
 
-- Coursera
+- Aston University
+- National and Kapodistrian University of Athens
+- Athens University of Economics and BusinessCoursera
 - Udemy
 - Quiz
 - Competion
@@ -12,5 +14,5 @@
 - Training
 - Internship
 - Microsoft
-- National and Kapodistrian University of Athens
-- Athens University of Economics and Business
+- BrightFutures
+
